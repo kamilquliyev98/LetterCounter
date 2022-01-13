@@ -1,0 +1,14 @@
+C:\Users\kamilag\source\repos\ABC-Counter\ABC-Counter\bin\Debug\netcoreapp3.1\ABC-Counter.exe
+C:\Users\kamilag\source\repos\ABC-Counter\ABC-Counter\bin\Debug\netcoreapp3.1\ABC-Counter.deps.json
+C:\Users\kamilag\source\repos\ABC-Counter\ABC-Counter\bin\Debug\netcoreapp3.1\ABC-Counter.runtimeconfig.json
+C:\Users\kamilag\source\repos\ABC-Counter\ABC-Counter\bin\Debug\netcoreapp3.1\ABC-Counter.runtimeconfig.dev.json
+C:\Users\kamilag\source\repos\ABC-Counter\ABC-Counter\bin\Debug\netcoreapp3.1\ABC-Counter.dll
+C:\Users\kamilag\source\repos\ABC-Counter\ABC-Counter\bin\Debug\netcoreapp3.1\ABC-Counter.pdb
+C:\Users\kamilag\source\repos\ABC-Counter\ABC-Counter\obj\Debug\netcoreapp3.1\ABC-Counter.csproj.AssemblyReference.cache
+C:\Users\kamilag\source\repos\ABC-Counter\ABC-Counter\obj\Debug\netcoreapp3.1\ABC-Counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamilag\source\repos\ABC-Counter\ABC-Counter\obj\Debug\netcoreapp3.1\ABC-Counter.AssemblyInfoInputs.cache
+C:\Users\kamilag\source\repos\ABC-Counter\ABC-Counter\obj\Debug\netcoreapp3.1\ABC-Counter.AssemblyInfo.cs
+C:\Users\kamilag\source\repos\ABC-Counter\ABC-Counter\obj\Debug\netcoreapp3.1\ABC-Counter.csproj.CoreCompileInputs.cache
+C:\Users\kamilag\source\repos\ABC-Counter\ABC-Counter\obj\Debug\netcoreapp3.1\ABC-Counter.dll
+C:\Users\kamilag\source\repos\ABC-Counter\ABC-Counter\obj\Debug\netcoreapp3.1\ABC-Counter.pdb
+C:\Users\kamilag\source\repos\ABC-Counter\ABC-Counter\obj\Debug\netcoreapp3.1\ABC-Counter.genruntimeconfig.cache
